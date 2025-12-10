@@ -14,7 +14,6 @@
   Mohammed Ali
 </h1>
 
-
 <!-- ========= RED TYPING EFFECT ========= -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=1800&pause=900&color=FF0000&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Frontend+%26+Backend+Engineer;Building+Web+Applications;Passionate+About+Coding;Coffee+Lover+%E2%98%95" />
@@ -23,7 +22,6 @@
 ---
 
 ## 🔥 About Me
-<!-- Short clean about section -->
 <div style="
     background: rgba(255,255,255,0.07);
     border-radius: 14px;
@@ -94,17 +92,20 @@
 
 ---
 
+## 🔥 GitHub Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M0YALI&theme=redical&hide_border=true&area=true" />
+</div>
+
+---
+
 ## 📱 Social Links  
 <div align="center" style="
     background: rgba(255,255,255,0.06);
     border-radius: 16px;
     padding: 22px;
     border: 1px solid rgba(255,255,255,0.15);
-    box-shadow: 0 8px 25px rgba(0,0,0,0.15);
 ">
-
-
-<div align="center">
 
 <a href="https://www.instagram.com/mohammedy_alii" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" width="50" />
@@ -120,5 +121,8 @@
 
 </div>
 
+---
 
+<div align="center">
+  <p style="color:#ff3b3b;">Made with ❤️ by Mohammed Ali</p>
 </div>
