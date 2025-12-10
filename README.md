@@ -14,6 +14,7 @@
   Mohammed Ali
 </h1>
 
+
 <!-- ========= RED TYPING EFFECT ========= -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=1800&pause=900&color=FF0000&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Frontend+%26+Backend+Engineer;Building+Web+Applications;Passionate+About+Coding;Coffee+Lover+%E2%98%95" />
