@@ -81,21 +81,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-<div align="center" style="
-    background: rgba(255,255,255,0.06);
-    border-radius: 18px;
-    padding: 20px;
-    border: 1px solid rgba(255,255,255,0.15);
-    box-shadow: 0 8px 30px rgba(0,0,0,0.20);
-">
-  
-<img src="https://streak-stats.demolab.com?user=M0YALI&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 📱 Social Links  
 <div align="center" style="
     background: rgba(255,255,255,0.06);
