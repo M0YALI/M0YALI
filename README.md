@@ -43,7 +43,6 @@
 ---
 
 ## 🧩 Skills & Technologies  
-<!-- Premium skill layout -->
 <div align="center" style="
     background: rgba(255,255,255,0.06);
     border-radius: 18px;
@@ -52,30 +51,22 @@
     display: inline-block;
 ">
 
-<!-- ===== FRONTEND ===== -->
 <h3 align="center">🌐 Frontend</h3>
-<img src="https://skillicons.dev/icons?i=html" width="55" />
-<img src="https://skillicons.dev/icons?i=css" width="55" />
-<img src="https://skillicons.dev/icons?i=js" width="55" />
-<img src="https://skillicons.dev/icons?i=vue" width="55" />
-<img src="https://skillicons.dev/icons?i=bootstrap" width="55" />
-<img src="https://skillicons.dev/icons?i=tailwind" width="55" />
-<br>
-<!-- ===== BACKEND ===== -->
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,tailwind" width="55" />
+
 <h3 align="center">⚙️ Backend</h3>
-<img src="https://skillicons.dev/icons?i=php" width="55" />
-<img src="https://skillicons.dev/icons?i=laravel" width="55" />
-<img src="https://skillicons.dev/icons?i=mysql" width="55" />
-<br>
-<!-- ===== CMS ===== -->
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql" width="55" />
+
 <h3 align="center">📦 CMS</h3>
 <img src="https://skillicons.dev/icons?i=wordpress" width="55" />
 <img src="https://cdn.simpleicons.org/joomla/5091CD" width="55" />
-<br>
-<!-- ===== TOOLS ===== -->
+
 <h3 align="center">🛠 Tools</h3>
-<img src="https://skillicons.dev/icons?i=git" width="55" />
-<img src="https://skillicons.dev/icons?i=github" width="55" />
+<img src="https://skillicons.dev/icons?i=git,github" width="55" />
+
+<h3 align="center">💻 Development Environment</h3>
+<img src="https://skillicons.dev/icons?i=vscode,phpstorm" width="55" />
+<img src="https://cdn.simpleicons.org/laragon/0E83CD" width="55" />
 
 </div>
 
