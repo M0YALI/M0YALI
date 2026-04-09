@@ -112,7 +112,7 @@
 </a>
 
 <a href="https://snapchat.com/t/6Y71OrLT" target="_blank">
-  <img src="https://raw.githubusercontent.com/M0YALI/M0YALI/main/snapchat.HEIC" width="50" />
+  <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/mohammedyali" target="_blank">
