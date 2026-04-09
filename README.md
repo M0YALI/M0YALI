@@ -106,19 +106,15 @@
     padding: 22px;
     border: 1px solid rgba(255,255,255,0.15);
 ">
-
 <a href="https://www.instagram.com/mohammedy_alii" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" width="50" />
 </a>
-
 <a href="https://snapchat.com/t/6Y71OrLT" target="_blank">
-  <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/snapchat/FFFC00" width="50" />
 </a>
-
 <a href="https://www.linkedin.com/in/mohammedyali" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
 </a>
-
 </div>
 
 ---
