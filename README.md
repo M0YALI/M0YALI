@@ -144,53 +144,19 @@
 
 ---
 
-## Expertise
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-90%25-ff0000?style=for-the-badge&labelColor=0d1117" alt="PHP 90%" />
-  <img src="https://img.shields.io/badge/Laravel-90%25-ff0000?style=for-the-badge&labelColor=0d1117" alt="Laravel 90%" />
-  <img src="https://img.shields.io/badge/Filament-85%25-ff0000?style=for-the-badge&labelColor=0d1117" alt="Filament 85%" />
-  <img src="https://img.shields.io/badge/Tailwind-80%25-ff0000?style=for-the-badge&labelColor=0d1117" alt="Tailwind 80%" />
-  <img src="https://img.shields.io/badge/SQL-80%25-ff0000?style=for-the-badge&labelColor=0d1117" alt="SQL 80%" />
-</p>
-
----
-
 ## Connect
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=FF2D2D&center=true&vCenter=true&width=420&lines=Let%27s+connect;Find+me+online" alt="connect typing" />
-</p>
-
-<br>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/mohammedyali" title="LinkedIn">
-    <img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="80" height="80" alt="LinkedIn" />
+    <img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="88" height="88" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/mohammedy_alii" title="Instagram">
-    <img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" width="80" height="80" alt="Instagram" />
+    <img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" width="88" height="88" alt="Instagram" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://snapchat.com/t/6Y71OrLT" title="Snapchat">
-    <img src="https://img.icons8.com/3d-fluency/94/snapchat.png" width="80" height="80" alt="Snapchat" />
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammedyali">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/mohammedy_alii">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="https://snapchat.com/t/6Y71OrLT">
-    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat" />
+    <img src="https://img.icons8.com/3d-fluency/94/snapchat.png" width="88" height="88" alt="Snapchat" />
   </a>
 </p>
 
