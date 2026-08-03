@@ -2,19 +2,18 @@
      MOHAMMED ALI — GitHub Profile README
 ═══════════════════════════════════════ -->
 
-<!-- ===== ANIMATED BANNER ===== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2800&pause=800&color=FF2D2D&center=true&vCenter=true&width=720&height=70&lines=Mohammed+Ali;Full+Stack+Developer;Laravel+%7C+Filament+%7C+PHP" alt="Mohammed Ali typing banner" />
+  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="330" alt="coding with coffee" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTipgNGeTo/giphy.gif" width="400" alt="coding animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2800&pause=800&color=FF2D2D&center=true&vCenter=true&width=720&height=70&lines=Mohammed+Ali;Full+Stack+Developer;Laravel+%7C+Filament+%7C+PHP" alt="Mohammed Ali typing banner" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2200&pause=900&color=FF5555&center=true&vCenter=true&width=620&height=55&lines=Accessible+interfaces+%26+reliable+Laravel+systems;CMS+platforms+%7C+APIs+%7C+production-ready+UX" alt="roles typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1800&pause=900&color=FF0000&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Frontend+%26+Backend+Engineer;Building+Web+Applications;Passionate+About+Coding;Coffee+Lover+%E2%98%95" alt="roles typing" />
 </div>
 
 <br>
@@ -23,7 +22,6 @@
 
   ![Visitors](https://komarev.com/ghpvc/?username=M0YALI&label=Profile%20Views&color=ff0000&style=for-the-badge)
   ![GitHub followers](https://img.shields.io/github/followers/M0YALI?style=for-the-badge&color=ff0000&labelColor=0d1117)
-  ![GitHub User's stars](https://img.shields.io/github/stars/M0YALI?style=for-the-badge&color=ff0000&labelColor=0d1117)
 
 </div>
 
@@ -33,28 +31,16 @@
 
 ## About Me
 
-Hey — I'm **Mohammed Ali**. I build accessible interfaces and reliable Laravel systems — from polished browser experiences to APIs, data flows, and production-ready CMS platforms.
-
-| | |
-|:--|:--|
-| **Focus** | Laravel · Filament · PHP · Tailwind · CMS platforms |
-| **Strengths** | Public UX, admin systems, maintainable architecture |
-| **Also** | Technical SEO, WordPress, Joomla, Primecode CMS |
-| **Fuel** | Coffee |
+- Full Stack Developer who enjoys building digital solutions
+- I like creating clean, modern interfaces
+- Comfortable with Laravel, Filament, PHP, WordPress & Joomla
+- Passionate about backend structure & solving logical problems
+- Always learning and refining my skills
+- Coffee keeps the code flowing
 
 ---
 
 ## Skills & Technologies
-
-<p align="center">
-  <img src="https://img.icons8.com/3d-fluency/64/code.png" alt="" width="48" height="48" />
-  &nbsp;
-  <img src="https://img.icons8.com/3d-fluency/64/database.png" alt="" width="48" height="48" />
-  &nbsp;
-  <img src="https://img.icons8.com/3d-fluency/64/laptop.png" alt="" width="48" height="48" />
-</p>
-
-<p align="center">3D icons from my <b>Moalii Portfolio CMS</b> stack</p>
 
 ### Frontend
 <table align="center">
@@ -135,17 +121,6 @@ Hey — I'm **Mohammed Ali**. I build accessible interfaces and reliable Laravel
       <img src="https://img.icons8.com/fluency/96/github.png" width="56" height="56" alt="GitHub" /><br><b>GitHub</b>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://img.icons8.com/fluency/96/microsoft-word-2019.png" width="56" height="56" alt="Word" /><br><b>Word</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://img.icons8.com/fluency/96/microsoft-powerpoint-2019.png" width="56" height="56" alt="PowerPoint" /><br><b>PowerPoint</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://img.icons8.com/fluency/96/microsoft-excel-2019.png" width="56" height="56" alt="Excel" /><br><b>Excel</b>
-    </td>
-  </tr>
 </table>
 
 ### Development Environment
@@ -180,8 +155,7 @@ Hey — I'm **Mohammed Ali**. I build accessible interfaces and reliable Laravel
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=M0YALI&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff2d2d&icon_color=ff2d2d&text_color=e6e6e6" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0YALI&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff2d2d&text_color=e6e6e6" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=M0YALI&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff2d2d&icon_color=ff2d2d&text_color=e6e6e6" alt="GitHub stats" />
 </div>
 
 <br>
@@ -189,34 +163,6 @@ Hey — I'm **Mohammed Ali**. I build accessible interfaces and reliable Laravel
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=M0YALI&theme=redical&hide_border=true&area=true&bg_color=0d1117&color=ff2d2d&line=ff5555&point=ffffff" alt="Contribution graph" />
 </div>
-
----
-
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Portfolio CMS (Moalii)</h3>
-      <p>Block-based portfolio platform with Filament admin, bilingual public site, role permissions, and cache-safe content delivery.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-        <img src="https://img.shields.io/badge/Filament-EFAF5D?style=flat-square&logo=filament&logoColor=black" alt="Filament" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-        <img src="https://img.shields.io/badge/Pest-29BC9B?style=flat-square" alt="Pest" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>PrimeCode Admin Theme</h3>
-      <p>Admin UX and CMS theming where architecture, Filament panels, and public polish matter equally.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-        <img src="https://img.shields.io/badge/Filament-EFAF5D?style=flat-square&logo=filament&logoColor=black" alt="Filament" />
-        <img src="https://img.shields.io/badge/CMS-A742F5?style=flat-square" alt="CMS" />
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
