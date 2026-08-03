@@ -89,9 +89,6 @@
   &nbsp;&nbsp;
   <img src="https://img.icons8.com/fluency/96/vite.png" width="64" height="64" alt="Vite" title="Vite" />
 </p>
-<p align="center">
-  <b>HTML</b> · <b>CSS</b> · <b>Bootstrap</b> · <b>JavaScript</b> · <b>Tailwind</b> · <b>Vite</b>
-</p>
 
 <br>
 
@@ -107,9 +104,6 @@
   &nbsp;&nbsp;
   <img src="https://img.icons8.com/fluency/96/mysql-logo.png" width="64" height="64" alt="SQL" title="SQL" />
 </p>
-<p align="center">
-  <b>PHP</b> · <b>Laravel</b> · <b>Filament</b> · <b>Livewire</b> · <b>SQL</b>
-</p>
 
 <br>
 
@@ -120,9 +114,6 @@
   <img src="https://cdn.simpleicons.org/joomla/5091CD" width="58" height="58" alt="Joomla" title="Joomla" />
   &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/96/module.png" width="64" height="64" alt="Primecode CMS" title="Primecode CMS" />
-</p>
-<p align="center">
-  <b>WordPress</b> · <b>Joomla</b> · <b>Primecode CMS</b>
 </p>
 
 <br>
@@ -139,9 +130,6 @@
   &nbsp;&nbsp;
   <img src="https://img.icons8.com/fluency/96/github.png" width="64" height="64" alt="GitHub" title="GitHub" />
 </p>
-<p align="center">
-  <b>Tech SEO</b> · <b>Sitemaps</b> · <b>Meta / Schema</b> · <b>Git</b> · <b>GitHub</b>
-</p>
 
 <br>
 
@@ -152,9 +140,6 @@
   <img src="https://skillicons.dev/icons?i=phpstorm" width="64" height="64" alt="PhpStorm" title="PhpStorm" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/laragon/0E83CD" width="58" height="58" alt="Laragon" title="Laragon" />
-</p>
-<p align="center">
-  <b>VS Code</b> · <b>PhpStorm</b> · <b>Laragon</b>
 </p>
 
 ---
@@ -171,56 +156,42 @@
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=M0YALI&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff2d2d&icon_color=ff2d2d&text_color=e6e6e6" alt="GitHub stats" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=M0YALI&theme=redical&hide_border=true&area=true&bg_color=0d1117&color=ff2d2d&line=ff5555&point=ffffff" alt="Contribution graph" />
-</div>
-
----
-
 ## Connect
 
 <p align="center">
-  <img src="https://img.icons8.com/3d-fluency/64/linkedin.png" width="36" height="36" alt="" />
-  &nbsp;
-  <img src="https://img.icons8.com/3d-fluency/64/instagram-new.png" width="36" height="36" alt="" />
-  &nbsp;
-  <img src="https://img.icons8.com/3d-fluency/64/snapchat.png" width="36" height="36" alt="" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=FF2D2D&center=true&vCenter=true&width=420&lines=Let%27s+connect;Find+me+online" alt="connect typing" />
 </p>
 
 <br>
 
-<table align="center">
-  <tr>
-    <td align="center" width="140">
-      <a href="https://www.linkedin.com/in/mohammedyali">
-        <img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="72" height="72" alt="LinkedIn" />
-      </a>
-      <br><br>
-      <b>LinkedIn</b>
-    </td>
-    <td align="center" width="140">
-      <a href="https://www.instagram.com/mohammedy_alii">
-        <img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" width="72" height="72" alt="Instagram" />
-      </a>
-      <br><br>
-      <b>Instagram</b>
-    </td>
-    <td align="center" width="140">
-      <a href="https://snapchat.com/t/6Y71OrLT">
-        <img src="https://img.icons8.com/3d-fluency/94/snapchat.png" width="72" height="72" alt="Snapchat" />
-      </a>
-      <br><br>
-      <b>Snapchat</b>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammedyali" title="LinkedIn">
+    <img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="80" height="80" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/mohammedy_alii" title="Instagram">
+    <img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" width="80" height="80" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://snapchat.com/t/6Y71OrLT" title="Snapchat">
+    <img src="https://img.icons8.com/3d-fluency/94/snapchat.png" width="80" height="80" alt="Snapchat" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammedyali">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/mohammedy_alii">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://snapchat.com/t/6Y71OrLT">
+    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat" />
+  </a>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer&animation=fadeIn&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Mohammed%20Ali&fontSize=16&fontColor=ffffff&fontAlignY=85" alt="footer" />
